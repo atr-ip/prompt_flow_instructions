@@ -1,4 +1,4 @@
-# Introduction to Prompt Flow
+# Introduction to Prompt Flow (How to set up Prompt Flow in a project)
 
 ## Preparations
 It's recommended to download Visual Studio Code:
