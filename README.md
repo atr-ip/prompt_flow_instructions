@@ -2,10 +2,10 @@
 
 ## Preparations
 It's recommended to download Visual Studio Code:
-Visual Studio Code Download
+[Visual Studio Code Download](https://code.visualstudio.com/download)
 
 Setting up and installing the Python environment:
-Python Environment Setup
+[Python Environment Setup](https://www.microsoft.com/store/productId/9P7QFQMJRFP7?ocid=pdpshare)
 
 Open the cloned project with Visual Studio Code. Open the terminal with `ctrl+ö` and issue the following command:
 
